@@ -9,7 +9,7 @@ function createBot() {
         port: 29014,
         username: 'AFKBot',
         auth: 'offline',
-        version: false
+        version: 1.21.11
     });
 
     let homePosition = null;
